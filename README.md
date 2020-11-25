@@ -1,4 +1,4 @@
-##Measure your motorcycle torque with your phone
+## Measure your motorcycle torque with your phone
 Have you ever heard that we have in our pockets a tool for making whatever we want? Well… yes, this is true.
 
 With this code you can obtain your motorcycle´s torque, speed and traveled distance using the [PhyPhox app](https://phyphox.org/) in your phone (Don´t worry, it´s available in Android and iOS). It should work too with other similar apps or using an Arduino with an accelerometer.
@@ -14,7 +14,7 @@ a) Distance v.s. time.  | b) Speed v.s. time.
 c) Torque v.s. time (2nd. And 3rd. method are the recommended).  | d) RPMs v.s. time. The RPMs function have some issues and need to be improved for it uses.
 
 
-###Repository organization
+### Repository organization
 
 In this repo you can find 5 files listed below:
 + **LICENSE,** this project is shared under MIT license agreement. If you need more information read this file or [click here.]( https://choosealicense.com/licenses/mit/)
@@ -28,7 +28,7 @@ In this repo you can find 5 files listed below:
 + **Trabajo final.pdf,** the analysis, information, test and all our work is documented here. If you are really interested in this topic maybe this document is from your interest. Oh, it is writing in Spanish, but we are in 2020, google translate works very well.
 
 
-###Some inconvenients
+### Some inconvenients
 
 Theoretically you can obtain the RPM from your motor with this code, but for an unknown reason it is showing incongruent results (Maybe we forgot something important). If you find something wrong, please make a pull request suggestion.
 
