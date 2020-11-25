@@ -1,4 +1,4 @@
-## Measure your motorcycle torque with your phone
+# Measure your motorcycle torque with your phone
 Have you ever heard that we have in our pockets a tool for making whatever we want? Well… yes, this is true.
 
 With this code you can obtain your motorcycle´s torque, speed and traveled distance using the [PhyPhox app](https://phyphox.org/) in your phone (Don´t worry, it´s available in Android and iOS). It should work too with other similar apps or using an Arduino with an accelerometer.
